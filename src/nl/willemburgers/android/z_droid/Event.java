@@ -3,7 +3,7 @@ package nl.willemburgers.android.z_droid;
 import android.util.Log;
 
 public final class Event {
-	private final String TAG = "Z-Android";
+	private final String TAG = "Z-Droid";
 	private boolean isSet;
 	
 	public synchronized void Set(){

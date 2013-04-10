@@ -6,7 +6,7 @@ import nl.willemburgers.android.z_droid.Defines.Defines;
 import nl.willemburgers.android.z_droid.ZWaveController.MsgQueue;
 
 public class Node {
-	private final String TAG = "Z-Android";
+	private final String TAG = "Z-Droid";
 	
 	private ZWaveController zwc;
 	

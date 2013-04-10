@@ -19,7 +19,7 @@ import de.hallenbeck.indiserver.communication_drivers.PL2303driver;
 import de.hallenbeck.indiserver.communication_drivers.PL2303driver.*;
 
 public final class ZWaveController implements PL2303callback {
-	private final String TAG = "Z-Android";
+	private final String TAG = "Z-Droid";
 	private Context AppContext;
 	private PL2303driver pl2303;
 	private boolean connected = false;

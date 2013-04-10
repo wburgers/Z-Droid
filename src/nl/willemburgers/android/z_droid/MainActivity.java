@@ -1,6 +1,6 @@
 package nl.willemburgers.android.z_droid;
 
-import nl.willemburgers.android.z_android.R;
+import nl.willemburgers.android.z_droid.R;
 import android.hardware.usb.*;
 import android.os.Bundle;
 import android.app.Activity;
@@ -10,7 +10,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
 
-	public final String TAG = "Z-Android";
+	public final String TAG = "Z-Droid";
 	private ZWaveController zwc;
 	
     @Override
